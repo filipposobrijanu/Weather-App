@@ -37,7 +37,7 @@ export default function Weather({ data }) {
       const fetchLocalTime = async () => {
         try {
           const response = await fetch(
-            `https://api.timezonedb.com/v2.1/get-time-zone?key=${process.env.REACT_APP_TIMEZONEDB_API_KEY}&format=json&by=position&lat=${data.coord.lat}&lng=${data.coord.lon}`
+            `https://api.timezonedb.com/v2.1/get-time-zone?key=W5GIWIEFBA8E&format=json&by=position&lat=${data.coord.lat}&lng=${data.coord.lon}`
           );
           const timeData = await response.json();
           setLocalTime(new Date(timeData.formatted).toLocaleString());
