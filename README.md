@@ -4,7 +4,6 @@
 A modern **web application** for accurate weather forecasting and city-based climate monitoring, built with **React.js**, **TimezoneDB API**, and **OpenWeatherMap API**. The system is deployed on **Netlify** for seamless global accessibility with real-time data updates.
 
 ![screenshot](images/1.png)
-![screenshot](images/2.png)
 
 ---
 
@@ -35,6 +34,8 @@ A modern **web application** for accurate weather forecasting and city-based cli
 - **UI Framework**: Bootstrap 5
 - **Deployment**: Netlify (CI/CD)
 - **Version Control**: GitHub
+
+![screenshot](images/2.png)
 
 ---
 
