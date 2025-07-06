@@ -3,7 +3,8 @@
 
 A comprehensive **web-based platform** designed to streamline the scheduling and management of medical appointments, developed using **Java EE technologies** including **Java Servlets**, **JavaServer Pages (JSP)**, and **MySQL** for robust database management. The system is deployed on **Apache Tomcat**, ensuring reliable and scalable performance for healthcare providers.
 
-![screenshot](images/1.PNG)
+![screenshot](images/1.png)
+![screenshot](images/2.png)
 
 ---
 
