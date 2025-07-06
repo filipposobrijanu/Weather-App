@@ -3,9 +3,8 @@
 
 A comprehensive **web-based platform** designed to streamline the scheduling and management of medical appointments, developed using **Java EE technologies** including **Java Servlets**, **JavaServer Pages (JSP)**, and **MySQL** for robust database management. The system is deployed on **Apache Tomcat**, ensuring reliable and scalable performance for healthcare providers.
 
-![screenshot](Images/1.PNG)
-![screenshot](Images/2.PNG)
-![screenshot](Images/3.PNG)
+![screenshot](images/1.PNG)
+
 ---
 
 ## 📌 Features
@@ -17,19 +16,12 @@ A comprehensive **web-based platform** designed to streamline the scheduling and
 - View upcoming and past appointments
 - Cancel appointments (if at least 3 days in the future)
 
-![screenshot](Images/4.PNG)
-![screenshot](Images/5.PNG)
 
 ### 🩺 Doctor
 - Log in securely
 - Submit availability (dates & times)
 - View scheduled appointments by day or week
 - Cancel future appointments (if at least 3 days ahead)
-
-![screenshot](Images/6.PNG)
-![screenshot](Images/7.PNG)
-![screenshot](Images/8.PNG)
-![screenshot](Images/9.PNG)
 
 ### 🛠️ Admin
 - Register new doctors into the system
