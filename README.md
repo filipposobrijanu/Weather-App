@@ -1,47 +1,41 @@
 
-# 🏥 Medical Appointment Management System
+# 🌦️ Real-Time Weather Forecast System
 
-A comprehensive **web-based platform** designed to streamline the scheduling and management of medical appointments, developed using **Java EE technologies** including **Java Servlets**, **JavaServer Pages (JSP)**, and **MySQL** for robust database management. The system is deployed on **Apache Tomcat**, ensuring reliable and scalable performance for healthcare providers.
+A modern **web application** for accurate weather forecasting and city-based climate monitoring, built with **React.js**, **TimezoneDB API**, and **OpenWeatherMap API**. The system is deployed on **Netlify** for seamless global accessibility with real-time data updates.
 
 ![screenshot](images/1.png)
 ![screenshot](images/2.png)
 
 ---
 
-## 📌 Features
+## 🌟 Key Features
 
-### 👤 Patient
-- Register and log in to the system
-- Search available doctors by specialty
-- Book an appointment at a selected date and time
-- View upcoming and past appointments
-- Cancel appointments (if at least 3 days in the future)
+### 🔍 City Weather Search
+- Detailed forecasts including:
+- Current temperature (°C/°F)
+- Humidity levels
+- Wind speed and direction
+- Atmospheric pressure
 
+### ⏰ Timezone Integration
+- Automatic local time detection for searched cities
+- Sunrise/sunset times display
+- Time-sensitive weather alerts
 
-### 🩺 Doctor
-- Log in securely
-- Submit availability (dates & times)
-- View scheduled appointments by day or week
-- Cancel future appointments (if at least 3 days ahead)
+### 📊 Advanced Visualization
+- Responsive design for all devices
 
-### 🛠️ Admin
-- Register new doctors into the system
-- View all registered doctors and specialties
-
-![screenshot](Images/11.PNG)
-![screenshot](Images/12.PNG)
 ---
 
 ## 🛠️ Technologies Used
 
-- **Java EE (Servlets, JSP)**
-- **MySQL** for relational database
-- **Apache Tomcat** as the application server
-- **JDBC** for database interaction
-- **Bootstrap 5** for responsive UI
-- **Eclipse / IntelliJ** (development IDE)
+- **Frontend**: React.js with Hooks
+- **Weather Data**: OpenWeatherMap API
+- **Timezone Data**: TimezoneDB API
+- **UI Framework**: Bootstrap 5
+- **Deployment**: Netlify (CI/CD)
+- **Version Control**: GitHub
 
-![screenshot](Images/13.PNG)
 ---
 
 ## 📄 License
