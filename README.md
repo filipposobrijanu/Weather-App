@@ -1,7 +1,6 @@
 # 🌦️ Real-Time Weather Forecast System
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-success?style=for-the-badge)](https://weather-app-citycast.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/75683ba0-f5dd-4dda-af91-79c2ded59380/deploy-status)](https://app.netlify.com/projects/citycast-weather-app/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A modern, responsive web application for real-time climate monitoring. This project integrates multiple third-party APIs to deliver live weather data and local time synchronization, providing users with a comprehensive view of global climate conditions.
