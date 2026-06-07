@@ -1,59 +1,33 @@
-
 # 🌦️ Real-Time Weather Forecast System
 
-A modern **web application** for accurate weather forecasting and city-based climate monitoring, built with **React.js**, **TimezoneDB API**, and **OpenWeatherMap API**. The system is deployed on **Netlify** for seamless global accessibility with real-time data updates.
-
-![screenshot](images/1.png)
-
----
-
-## 🌟 Key Features
-
-### 🔍 City Weather Search
-- Detailed forecasts including:
-- Current temperature (°C/°F)
-- Humidity levels
-- Wind speed and direction
-- Atmospheric pressure
-
-### ⏰ Timezone Integration
-- Automatic local time detection for searched cities
-- Sunrise/sunset times display
-- Time-sensitive weather alerts
-
-### 📊 Advanced Visualization
-- Responsive design for all devices
-
----
-
-## 🛠️ Technologies Used
-
-- **Frontend**: React.js with Hooks
-- **Weather Data**: OpenWeatherMap API
-- **Timezone Data**: TimezoneDB API
-- **UI Framework**: Bootstrap 5
-- **Deployment**: Netlify (CI/CD)
-- **Version Control**: GitHub
-
-![screenshot](images/2.png)
-
----
-
-## 📄 License
-
-This project is open-source.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! Please follow standard GitHub flow and keep the code clean and documented.
-
----
-
-## 📬 Contact
-
-For questions, contact me at [obrizanou@gmail.com](mailto:obrizanou@gmail.com) or open an issue.
-
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-success?style=for-the-badge)](https://weather-app-citycast.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/75683ba0-f5dd-4dda-af91-79c2ded59380/deploy-status)](https://app.netlify.com/projects/citycast-weather-app/deploys)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+A modern, responsive web application for real-time climate monitoring. This project integrates multiple third-party APIs to deliver live weather data and local time synchronization, providing users with a comprehensive view of global climate conditions.
+
+![Weather App Screenshot](images/1.png)
+
+## ✨ Core Features
+
+* **Multi-API Integration:** Seamlessly aggregates data from OpenWeatherMap (climate data) and TimezoneDB (local time synchronization).
+* **Detailed Analytics:** Provides high-fidelity weather metrics, including humidity, wind speed, atmospheric pressure, and sunrise/sunset calculations.
+* **Smart Search & Local Time:** Automatically detects and displays local time for any searched city, ensuring time-sensitive data is always accurate.
+* **Modern React Architecture:** Built with React Hooks (`useState`, `useEffect`) for efficient state management and component reusability.
+
+## 🛠️ Built With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/API-OpenWeatherMap-2D99FF?style=for-the-badge" alt="OpenWeather" />
+  <img src="https://img.shields.io/badge/API-TimezoneDB-FF9900?style=for-the-badge" alt="TimezoneDB" />
+</p>
+
+![Dashboard View](images/2.png)
+
+## 🚀 Getting Started (Local Development)
+
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/filipposobrijanu/CityCast-Weather-App.git](https://github.com/filipposobrijanu/CityCast-Weather-App.git)
