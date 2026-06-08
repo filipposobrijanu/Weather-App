@@ -1,4 +1,4 @@
-# 🌦️ Real-Time Weather Forecast System
+# Real-Time Weather Forecast System
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-success?style=for-the-badge)](https://weather-app-citycast.netlify.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -29,4 +29,4 @@ A modern, responsive web application for real-time climate monitoring. This proj
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/filipposobrijanu/CityCast-Weather-App.git](https://github.com/filipposobrijanu/CityCast-Weather-App.git)
+   git clone [https://github.com/filipposobrijanu/Weather-App.git](https://github.com/filipposobrijanu/-Weather-App.git)
