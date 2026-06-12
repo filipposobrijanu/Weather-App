@@ -27,16 +27,32 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend Engine & Logic**
+**Frontend Engine & Core View Layer**
 <p align="left">
   <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="JSX" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-**Data Integration Layer**
+**Data Ingestion & Integration Layer**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenWeather_API-2D99FF?style=for-the-badge&logo=openweathermap&logoColor=white" alt="OpenWeather" />
   <img src="https://img.shields.io/badge/TimezoneDB_API-FF9900?style=for-the-badge&logo=clock&logoColor=white" alt="TimezoneDB" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge" alt="Fetch API" />
+</p>
+
+**Design Layout & Interface Primitives**
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+**Environment & Utilities**
+<p align="left">
+  <img src="https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" alt="Dotenv" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
