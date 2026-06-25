@@ -2,7 +2,7 @@
 <h3 align="center">Real-Time Climate Analytics & Synchronized Time-Data Engine</h3>
 
 <p align="center">
-  A production-ready climate monitoring platform designed for real-time data aggregation. This system integrates disparate RESTful API services to provide high-fidelity weather metrics and location-based time synchronization, engineered for low-latency retrieval and efficient state-driven UI updates.
+  A climate monitoring platform designed for real-time data aggregation. This system integrates RESTful API services to provide weather metrics and location-based time synchronization.
 </p>
 
 <p align="center">
@@ -16,16 +16,7 @@
 
 ---
 
-### ✨ Core Features
-
-* **Multi-Source Data Orchestration:** Sophisticated integration pipeline aggregating data from OpenWeatherMap (Climate Dynamics) and TimezoneDB (Temporal Synchronization) to deliver comprehensive, unified global reports.
-* **High-Fidelity Analytics:** Real-time processing and UI mapping of nuanced climatic telemetry, including atmospheric pressure gradients, humidity percentages, wind vector analysis, and astronomical sunrise/sunset calculations.
-* **Smart Geolocation & Temporal Mapping:** Dynamic search system that maps geographical inputs to precise time-zone offsets, ensuring data accuracy for time-sensitive forecasting.
-* **Reactive React Hook Architecture:** Built using clean, performant React functional paradigms (`useState`, `useEffect`) to optimize data fetching life-cycles, handle concurrent state updates, and ensure modular component scalability.
-
----
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend Engine & Core View Layer**
 <p align="left">
@@ -57,7 +48,7 @@
 
 ---
 
-### 📸 Application Showcase
+### Application Showcase
 
 <p align="center">
   <img src="images/1.png" width="48%" />
@@ -66,7 +57,7 @@
 
 ---
 
-### 🚀 Getting Started (Local Development)
+### Getting Started (Local Development)
 
 **1. Clone the repository:**
 ```bash
